@@ -14,7 +14,7 @@
 </div>
 
 # 📖 Sobre 
-Um site bem simples apenas para fazer as Transição entre as paginas
+Um site bem simples apenas para fazer as transições entre as paginas
 
 # 📋 Motivo
 Teste de como fazer animações mais fluidas no Next
